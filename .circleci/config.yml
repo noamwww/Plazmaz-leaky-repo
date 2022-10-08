@@ -19,7 +19,7 @@ jobs:
           name: "Say hello"
           command: "echo Hello, World!"
       - checkov/scan:
-          api-key: 6bridgecrew-9example-2api-key1-demo9
+          api-key: 1e658cad-418f-41fb-955c-624b132ab766
           directory: .
           
           
